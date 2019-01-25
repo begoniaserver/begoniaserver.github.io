@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>Hexo-NexT-背景颜色透明</title>
+      <link href="/2018/08/14/Hexo-Next-%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E/"/>
+      <url>/2018/08/14/Hexo-Next-%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><center><strong>背景颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第65行<code>background:</code><br></p><p><center><strong>菜单栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第20行<code>background:</code><br></p><p><center><strong>博主信息栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第88行<code>background:</code><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_sidebar.styl</code><br>代码位置：第19行<code>background:</code><br><br></p><blockquote><p>例：background: rgba(255,255,255,0.7) 即为透明度30%的白色<br>注：博主信息栏颜色为两层叠加</p></blockquote>]]></content>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Hexo-实用插件</title>
+      <link href="/2018/08/14/Hexo-%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6/"/>
+      <url>/2018/08/14/Hexo-%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><center><strong>搜索插件</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第65行<code>background:</code><br></p><p><center><strong>菜单栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第20行<code>background:</code><br></p><p><center><strong>博主信息栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第88行<code>background:</code><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_sidebar.styl</code><br>代码位置：第19行<code>background:</code><br><br></p><blockquote><p>例：background: rgba(255,255,255,0.7) 即为透明度30%的白色<br>注：博主信息栏颜色为两层叠加</p></blockquote>]]></content>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>起始</title>
+      <link href="/2018/04/21/%E8%B5%B7%E5%A7%8B/"/>
+      <url>/2018/04/21/%E8%B5%B7%E5%A7%8B/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+    </entry>
+    
+  
+  
+</search>
