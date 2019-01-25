@@ -5,9 +5,9 @@
   <subtitle>椿去湫来，海棠花开</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://luohuabiao.github.io/"/>
-  <updated>2018-08-14T13:40:13.000Z</updated>
-  <id>https://luohuabiao.github.io/</id>
+  <link href="https://begoniaserver.github.io/"/>
+  <updated>2019-01-25T03:26:49.957Z</updated>
+  <id>https://begoniaserver.github.io/</id>
   
   <author>
     <name>Lowell</name>
@@ -17,63 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo-NexT-背景颜色透明</title>
-    <link href="https://luohuabiao.github.io/2018/08/14/Hexo-Next-%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E/"/>
-    <id>https://luohuabiao.github.io/2018/08/14/Hexo-Next-背景透明/</id>
-    <published>2018-08-14T05:30:00.000Z</published>
-    <updated>2018-08-14T13:40:13.000Z</updated>
+    <title>鬼服</title>
+    <link href="https://begoniaserver.github.io/2019/01/24/%E9%AC%BC%E6%9C%8D/"/>
+    <id>https://begoniaserver.github.io/2019/01/24/鬼服/</id>
+    <published>2019-01-24T14:00:00.000Z</published>
+    <updated>2019-01-25T03:26:49.957Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><center><strong>背景颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第65行<code>background:</code><br></p><p><center><strong>菜单栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第20行<code>background:</code><br></p><p><center><strong>博主信息栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第88行<code>background:</code><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_sidebar.styl</code><br>代码位置：第19行<code>background:</code><br><br></p><blockquote><p>例：background: rgba(255,255,255,0.7) 即为透明度30%的白色<br>注：博主信息栏颜色为两层叠加</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><center><strong>死亡掉落，清除物品，苟命机制</strong></center><br><center><strong>从开服到鬼服只需三天</strong></center><br><center><strong>服务器名称：鬼服</strong></center><br><center><strong>腐竹：椿湫</strong></center><br><center><strong>服务器类型：租赁服</strong></center><br><center><strong>服务器密码：190124</strong></center><br><center><strong>服务器难度：困难</strong></center><br><center><strong>——————注意事项——————</strong></center><br><center><strong>死亡掉落，并立刻清除所有掉落物</strong></center><br><center><strong>苟命价格调整为60海棠币</strong></center><br><center><strong>发现BUG请及时反馈</strong></center><br><center><strong>开服时间每日14-22点</strong></center><br><center><strong>——————氪金——————</strong></center><br><center><strong>6元及以上 可获得360海棠币</strong></center><br><center><strong>想要其他的物品请私聊我协商好再氪</strong></center><br><center><strong>氪金请备注游戏ID，支持支付宝微信点击下方打赏即可</strong></center>]]></content>
     
     <summary type="html">
     
-      &lt;center&gt;NexT.Pisces主题修改背景颜色教程&lt;/center&gt;
+      &lt;center&gt;鬼服&lt;/center&gt;
     
     </summary>
     
     
-      <category term="Hexo" scheme="https://luohuabiao.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo-实用插件</title>
-    <link href="https://luohuabiao.github.io/2018/08/14/Hexo-%E5%AE%9E%E7%94%A8%E6%8F%92%E4%BB%B6/"/>
-    <id>https://luohuabiao.github.io/2018/08/14/Hexo-实用插件/</id>
-    <published>2018-08-14T05:30:00.000Z</published>
-    <updated>2018-10-14T09:22:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><center><strong>搜索插件</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第65行<code>background:</code><br></p><p><center><strong>菜单栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第20行<code>background:</code><br></p><p><center><strong>博主信息栏颜色</strong></center><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_layout.styl</code><br>代码位置：第88行<code>background:</code><br>文件位置：<code>themes\next\source\css\_schemes\Pisces\_sidebar.styl</code><br>代码位置：第19行<code>background:</code><br><br></p><blockquote><p>例：background: rgba(255,255,255,0.7) 即为透明度30%的白色<br>注：博主信息栏颜色为两层叠加</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      &lt;center&gt;Hexo-实用插件&lt;/center&gt;
-    
-    </summary>
-    
-    
-      <category term="Hexo" scheme="https://luohuabiao.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>起始</title>
-    <link href="https://luohuabiao.github.io/2018/04/21/%E8%B5%B7%E5%A7%8B/"/>
-    <id>https://luohuabiao.github.io/2018/04/21/起始/</id>
-    <published>2018-04-21T07:54:34.000Z</published>
-    <updated>2018-04-21T07:54:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
+      <category term="Minecraft" scheme="https://begoniaserver.github.io/tags/Minecraft/"/>
     
   </entry>
   
